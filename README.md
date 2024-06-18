@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nehal-1920
-- 👀 I’m Data Science enthusiast
+- 👀 I’m a Data Science enthusiast
 - 🌱 I’m currently learning the famous Andrew N G's machine learning course available on coursera.
 - 💞️ I’m looking to collaborate on python and machine learning stuff
 - 📫 How to reach me- you can reach me through my email id- nehalp1920@gmail.com
